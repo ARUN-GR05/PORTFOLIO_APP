@@ -9,8 +9,6 @@ This is a simple personal portfolio website built with HTML and CSS. It showcase
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -47,24 +45,7 @@ This portfolio is built using **HTML** and **CSS** with a clean, responsive layo
 
 ---
 
-## Installation
 
-1. **Clone the repo**:
-
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd portfolio-website
-Open index.html in your browser.
-
-How to Use
-Customize the content: Replace the "About Me" text, project images, and descriptions with your own content.
-You can modify the contact form to work with a backend or use services like Formspree to make it functional.
-Contributing
-This is my first project, so contributions are welcome! Feel free to fork the repository, make improvements, or suggest changes through pull requests.
 
 Contact
 Name: Arun GR
